@@ -1,0 +1,7 @@
+#ifndef __INC_LIMIT_TIME_H__
+#define __INC_LIMIT_TIME_H__
+
+#define ENABLE_LIMIT_TIME
+#define GLOBAL_LIMIT_TIME 1767229200UL // Thu Jan 01 2026 01:00:00 GMT+0000
+
+#endif // __INC_LIMIT_TIME_H__
